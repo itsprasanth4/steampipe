@@ -25,7 +25,7 @@ require (
 	github.com/hashicorp/hcl/v2 v2.15.0
 	github.com/hashicorp/terraform v0.15.1
 	github.com/jackc/pgconn v1.13.0
-	github.com/jackc/pgx/v5 v5.2.0
+	github.com/jackc/pgx/v5 v5.4.3
 	github.com/jedib0t/go-pretty/v6 v6.4.3
 	github.com/karrick/gows v0.3.0
 	github.com/logrusorgru/aurora v2.0.3+incompatible
@@ -50,7 +50,7 @@ require (
 	github.com/zclconf/go-cty-yaml v1.0.3
 	golang.org/x/exp v0.0.0-20221110155412-d0897a79cd37
 	golang.org/x/sync v0.1.0
-	golang.org/x/text v0.5.0
+	golang.org/x/text v0.9.0
 	google.golang.org/grpc v1.51.0
 	google.golang.org/protobuf v1.28.1
 	gopkg.in/olahol/melody.v1 v1.0.0-20170518105555-d52139073376
@@ -137,8 +137,8 @@ require (
 	github.com/jackc/pgio v1.0.0 // indirect
 	github.com/jackc/pgpassfile v1.0.0 // indirect
 	github.com/jackc/pgproto3/v2 v2.3.1 // indirect
-	github.com/jackc/pgservicefile v0.0.0-20200714003250-2b9c44734f2b // indirect
-	github.com/jackc/puddle/v2 v2.1.2 // indirect
+	github.com/jackc/pgservicefile v0.0.0-20221227161230-091c0ba34f0a // indirect
+	github.com/jackc/puddle/v2 v2.2.1 // indirect
 	github.com/jbenet/go-context v0.0.0-20150711004518-d14ea06fba99 // indirect
 	github.com/jmespath/go-jmespath v0.4.0 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
@@ -198,10 +198,9 @@ require (
 	go.opentelemetry.io/otel/sdk/metric v0.30.0 // indirect
 	go.opentelemetry.io/otel/trace v1.10.0 // indirect
 	go.opentelemetry.io/proto/otlp v0.16.0 // indirect
-	go.uber.org/atomic v1.10.0 // indirect
 	golang.org/x/oauth2 v0.0.0-20221014153046-6fdb5e3db783 // indirect
-	golang.org/x/sys v0.2.0 // indirect
-	golang.org/x/term v0.2.0 // indirect
+	golang.org/x/sys v0.8.0 // indirect
+	golang.org/x/term v0.8.0 // indirect
 	golang.org/x/xerrors v0.0.0-20220907171357-04be3eba64a2 // indirect
 	google.golang.org/api v0.102.0 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
@@ -229,9 +228,9 @@ require (
 	github.com/prometheus/procfs v0.8.0 // indirect
 	github.com/tklauser/go-sysconf v0.3.9 // indirect
 	github.com/yusufpapurcu/wmi v1.2.2 // indirect
-	golang.org/x/crypto v0.3.0 // indirect
-	golang.org/x/mod v0.6.0 // indirect
-	golang.org/x/net v0.2.0 // indirect
+	golang.org/x/crypto v0.9.0 // indirect
+	golang.org/x/mod v0.8.0 // indirect
+	golang.org/x/net v0.10.0 // indirect
 	rsc.io/letsencrypt v0.0.3 // indirect
 )
 
