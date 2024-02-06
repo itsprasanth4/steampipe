@@ -12,7 +12,7 @@ require (
 	github.com/containerd/containerd v1.4.13
 	github.com/deislabs/oras v0.9.0
 	github.com/fatih/color v1.13.0
-	github.com/fsnotify/fsnotify v1.6.0
+	github.com/fsnotify/fsnotify v1.7.0
 	github.com/gertd/go-pluralize v0.2.1
 	github.com/gin-contrib/static v0.0.1
 	github.com/gin-gonic/gin v1.8.1
@@ -42,13 +42,13 @@ require (
 	github.com/spf13/pflag v1.0.5
 	github.com/spf13/viper v1.14.0
 	github.com/stevenle/topsort v0.0.0-20130922064739-8130c1d7596b
-	github.com/turbot/go-kit v0.5.0
+	github.com/turbot/go-kit v0.9.0
 	github.com/turbot/steampipe-cloud-sdk-go v0.3.0
 	github.com/turbot/steampipe-plugin-sdk/v5 v5.1.0-rc.0
 	github.com/xlab/treeprint v1.1.0
 	github.com/zclconf/go-cty v1.12.1
 	github.com/zclconf/go-cty-yaml v1.0.3
-	golang.org/x/exp v0.0.0-20221110155412-d0897a79cd37
+	golang.org/x/exp v0.0.0-20230522175609-2e198f4a06a1
 	golang.org/x/sync v0.1.0
 	golang.org/x/text v0.5.0
 	google.golang.org/grpc v1.51.0
@@ -113,7 +113,7 @@ require (
 	github.com/golang/glog v1.0.0 // indirect
 	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da // indirect
 	github.com/golang/protobuf v1.5.2 // indirect
-	github.com/google/go-cmp v0.5.9 // indirect
+	github.com/google/go-cmp v0.6.0 // indirect
 	github.com/googleapis/enterprise-certificate-proxy v0.2.0 // indirect
 	github.com/googleapis/gax-go/v2 v2.6.0 // indirect
 	github.com/googleapis/go-type-adapters v1.0.0 // indirect
@@ -200,7 +200,7 @@ require (
 	go.opentelemetry.io/proto/otlp v0.16.0 // indirect
 	go.uber.org/atomic v1.10.0 // indirect
 	golang.org/x/oauth2 v0.0.0-20221014153046-6fdb5e3db783 // indirect
-	golang.org/x/sys v0.2.0 // indirect
+	golang.org/x/sys v0.5.0 // indirect
 	golang.org/x/term v0.2.0 // indirect
 	golang.org/x/xerrors v0.0.0-20220907171357-04be3eba64a2 // indirect
 	google.golang.org/api v0.102.0 // indirect
