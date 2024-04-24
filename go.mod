@@ -33,7 +33,7 @@ require (
 	github.com/mitchellh/colorstring v0.0.0-20190213212951-d06e56a500db
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/opencontainers/image-spec v1.0.2
-	github.com/otiai10/copy v1.9.0
+	github.com/otiai10/copy v1.14.0
 	github.com/sethvargo/go-retry v0.1.0
 	github.com/shiena/ansicolor v0.0.0-20200904210342-c7312218db18
 	github.com/shirou/gopsutil v3.21.11+incompatible
@@ -49,7 +49,7 @@ require (
 	github.com/zclconf/go-cty v1.12.1
 	github.com/zclconf/go-cty-yaml v1.0.3
 	golang.org/x/exp v0.0.0-20221110155412-d0897a79cd37
-	golang.org/x/sync v0.1.0
+	golang.org/x/sync v0.3.0
 	golang.org/x/text v0.5.0
 	google.golang.org/grpc v1.51.0
 	google.golang.org/protobuf v1.28.1
