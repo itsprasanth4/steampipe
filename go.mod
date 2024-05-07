@@ -11,7 +11,7 @@ require (
 	github.com/c-bata/go-prompt v0.2.6
 	github.com/containerd/containerd v1.4.13
 	github.com/deislabs/oras v0.9.0
-	github.com/fatih/color v1.13.0
+	github.com/fatih/color v1.16.0
 	github.com/fsnotify/fsnotify v1.6.0
 	github.com/gertd/go-pluralize v0.2.1
 	github.com/gin-contrib/static v0.0.1
@@ -29,7 +29,7 @@ require (
 	github.com/jedib0t/go-pretty/v6 v6.4.3
 	github.com/karrick/gows v0.3.0
 	github.com/logrusorgru/aurora v2.0.3+incompatible
-	github.com/mattn/go-isatty v0.0.16
+	github.com/mattn/go-isatty v0.0.20
 	github.com/mitchellh/colorstring v0.0.0-20190213212951-d06e56a500db
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/opencontainers/image-spec v1.0.2
@@ -146,7 +146,7 @@ require (
 	github.com/klauspost/compress v1.11.2 // indirect
 	github.com/leodido/go-urn v1.2.1 // indirect
 	github.com/magiconair/properties v1.8.6 // indirect
-	github.com/mattn/go-colorable v0.1.12 // indirect
+	github.com/mattn/go-colorable v0.1.13 // indirect
 	github.com/mattn/go-runewidth v0.0.13 // indirect
 	github.com/mattn/go-tty v0.0.3 // indirect
 	github.com/mitchellh/copystructure v1.0.0 // indirect
@@ -200,7 +200,7 @@ require (
 	go.opentelemetry.io/proto/otlp v0.16.0 // indirect
 	go.uber.org/atomic v1.10.0 // indirect
 	golang.org/x/oauth2 v0.0.0-20221014153046-6fdb5e3db783 // indirect
-	golang.org/x/sys v0.2.0 // indirect
+	golang.org/x/sys v0.14.0 // indirect
 	golang.org/x/term v0.2.0 // indirect
 	golang.org/x/xerrors v0.0.0-20220907171357-04be3eba64a2 // indirect
 	google.golang.org/api v0.102.0 // indirect
