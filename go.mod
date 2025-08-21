@@ -1,6 +1,6 @@
 module github.com/turbot/steampipe
 
-go 1.19
+go 1.23
 
 require (
 	github.com/Machiel/slugify v1.0.1
@@ -52,7 +52,7 @@ require (
 	golang.org/x/sync v0.1.0
 	golang.org/x/text v0.5.0
 	google.golang.org/grpc v1.51.0
-	google.golang.org/protobuf v1.28.1
+	google.golang.org/protobuf v1.36.8
 	gopkg.in/olahol/melody.v1 v1.0.0-20170518105555-d52139073376
 	sigs.k8s.io/yaml v1.3.0
 )
